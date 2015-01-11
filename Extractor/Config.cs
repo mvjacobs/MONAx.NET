@@ -17,7 +17,7 @@
         /// </summary>
         public static string AlchemyApiKey
         {
-            get { return "1ad2c7f540e986878a2d825efda2d933f7ce61b9"; }
+            get { return "YOUR-ALCHEMYAPI-KEY"; }
         }
 
         /// <summary>
@@ -26,7 +26,7 @@
         /// </summary>
         public static string TextRazorApiKey
         {
-            get { return "e569a939399816b2717230d7ef0a01d21c7f58973f0dcc96f6fdd9ed"; }
+            get { return "YOUR-TEXTRAZOR-KEY"; }
         }
 
         /// <summary>
